@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nikita/Bureau/EPITECH/DEV_epicture_2019/epicture/build/camera/intermediates/res/merged/release/values-fr-rCA/values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "/home/nikita/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/f747487bbef428f7d8321bb13d89fe3d/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/nikita/Bureau/EPITECH/DEV_epicture_2019/epicture/build/camera/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "/home/nikita/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/f747487bbef428f7d8321bb13d89fe3d/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

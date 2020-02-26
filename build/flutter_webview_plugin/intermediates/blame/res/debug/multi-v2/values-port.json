@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nikita/Bureau/EPITECH/DEV_epicture_2019/epicture/build/flutter_webview_plugin/intermediates/res/merged/debug/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/nikita/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/3fdb54c9662916a67aab9542c285170d/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/nikita/Bureau/EPITECH/DEV_epicture_2019/epicture/build/flutter_webview_plugin/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/nikita/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/3fdb54c9662916a67aab9542c285170d/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
